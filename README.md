@@ -1,4 +1,4 @@
-# Unity-Tools-Rotating-and-Bobbing
+# Unity-Tool-Rotating-and-Bobbing
 This tool will show objects to rotating and bobbing 
 
 ![0](https://github.com/user-attachments/assets/4d3aa3ed-c268-47e4-93f9-b2a380fa67d2)
