@@ -15,3 +15,6 @@ Compare between object in unity and object in minecarft
 <h3><b>Bobbing</b></h3>
 
  ![Bobbing-test](https://github.com/user-attachments/assets/b91f0b25-0f5c-4afa-be0c-3603ba903c77)
+
+#How to Install
+Install from the Package Manager using this git URL: https://github.com/NumdyPixe1/unity-tool-rotating-and-bobbing.git 
